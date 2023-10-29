@@ -1,4 +1,3 @@
-import { init } from 'create-react-app/createReactApp';
 import React, { useState } from 'react';
 
 const NewTask = ({onAdd}) => {
